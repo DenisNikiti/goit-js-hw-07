@@ -16,12 +16,7 @@ galleryEl.addEventListener("click", onGalleryClick)
 function onGalleryClick(evt) {
     evt.preventDefault()
      
-    // if (evt.target.nodeName !== "A") {
-    //     return;
     
-
-    
-    // }
     
     
    
