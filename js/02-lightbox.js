@@ -19,7 +19,7 @@ function CreateGallery(galleryItems) {
     />
   </a>
   </div>
-`
+`    
      }).join("")
 
    
